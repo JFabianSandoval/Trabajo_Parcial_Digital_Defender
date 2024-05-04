@@ -1,2 +1,2 @@
-# Trabajo_Parcial_Omega-Defender
+# Trabajo_Parcial_Digital_Defender
 Codigo del trabajo parcial del curso algoritmos
